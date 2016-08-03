@@ -1,0 +1,45 @@
+{
+  "ProjectName": "ManW",
+  "ProjectGuid": "d23a8f4a-d967-47b7-b9cc-3bdc092153ec",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.ManW",
+  "DisplayName": "ManW",
+  "Author": "",
+  "Description": "ManW",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{90721a4c-8532-43c8-8368-66cc7b892483}",
+  "WP8ProductID": "{93d85903-41da-4b17-858e-87d15a9083dd}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.ManW",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}

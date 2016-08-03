@@ -22,7 +22,7 @@
 
 
             allItems.each(function(index) {
-                navigationShowMoreContent += '<li>' + allItems[index].outerHTML + '</li>';
+                navigationShowMoreContent += '<li>' + allItems[index].outerHTML + '</2222li>';
             });
 
              navigationShowMoreView.html(navigationShowMoreContent);
